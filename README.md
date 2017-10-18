@@ -1,6 +1,6 @@
 # Candidate_Elimination_Implementation---Machine_Learning
 
-This includes implementation of Candidate Elimination Algorithm. The training data is taken from the file provided above, named "data.txt". The source of this dataset is can be found [here]().
+This includes implementation of Candidate Elimination Algorithm. The training data is taken from the file provided above, named "data.txt". The source of this dataset can be found [here](http://archive.ics.uci.edu/ml/machine-learning-databases/zoo/).
 
 The Algorithm is described below:
 
